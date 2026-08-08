@@ -11,3 +11,4 @@ if c > 100:
     print(f"O numero que você digitou primeiro {a} somado com {b} da mais do que 100")
 else:
     print(f"O numero que você digitou primeiro {a} somado com {b} é menor ou igual a 100")
+    
