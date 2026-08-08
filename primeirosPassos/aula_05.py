@@ -20,3 +20,4 @@ if confirmacao:
     print("Continuando...")
 else:
     print("Operação cancelada.")
+    

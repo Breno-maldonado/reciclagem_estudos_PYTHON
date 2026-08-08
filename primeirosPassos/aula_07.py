@@ -50,3 +50,4 @@ if nome_2 in lista_nome:
     print(f'{nome_2} está na lista')
 else:
     print(f'{nome_2} não está na lista')
+    
