@@ -20,3 +20,4 @@ for i in range(1, len(bacteriasDias)):
 
 for i in range(len(percentuais)):
     print(f"Dia {i + 1}: {percentuais[i]:.2f}%")
+    
