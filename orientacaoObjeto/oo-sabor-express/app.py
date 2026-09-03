@@ -3,6 +3,7 @@ from modelos.restaurante import Restaurante
 restaurante_praca = Restaurante('praça', 'gourmet')
 restaurante_praca.receber_avaliacao('Breno', 10)
 restaurante_praca.receber_avaliacao('Ana', 9)
+restaurante_praca.receber_avaliacao('Mila', 6)
 
 def main():
     Restaurante.listar_restaurantes()
